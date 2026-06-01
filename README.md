@@ -132,16 +132,6 @@
 - 📘 **Introduction to Graph Algorithms** — IISc Bengaluru (NPTEL) · July–Sep 2025
 - 📗 **Data Science for Engineers** — IIT Madras (NPTEL) · Jan–Mar 2025
 
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=mithrangowda07&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mithrangowda07&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="165" />
-
-</div>
 
 ---
 
