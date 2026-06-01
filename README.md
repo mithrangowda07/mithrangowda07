@@ -22,7 +22,7 @@
 - 💼 Ex **Software Development Intern** at **Schneider Electric** — built AI-powered anomaly detection for home automation systems
 - 🤖 Passionate about **AI/ML**, **Full Stack Development**, and **IoT**
 - 🏆 National Hackathon Runner-up (×2) · Datathon Winner · VTU State Volleyball Champion
-- 🌱 Currently exploring **competitive programming** and advanced **ML architectures**
+- 🌱 Currently exploring **competitive programming** and **Full Stack Development**
 - 📍 Based in **Bengaluru, Karnataka**
 
 ---
