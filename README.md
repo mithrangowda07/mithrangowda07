@@ -179,9 +179,6 @@
 
 <div align="center">
 
-*"Building intelligent systems that make a difference — one commit at a time."*
-
-![Profile Views](https://komarev.com/ghpvc/?username=mithrangowda07&color=blueviolet&style=flat-square)
 
 ⭐ **If you find my work useful, consider giving a star to my repos!** ⭐
 
