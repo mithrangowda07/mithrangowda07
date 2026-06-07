@@ -44,7 +44,6 @@
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
 
 ### Tools & Technologies
@@ -97,15 +96,6 @@
 > AI-driven flood early warning system with real-time risk alerts and 3-day forecasts.
 - Hybrid **XGBoost + LSTM** model; integrated **NASA POWER** climate data and **EM-DAT** disaster records
 - **SHAP-based** model explainability; interactive dashboard with maps, heatmaps & multi-city monitoring
-
----
-
-### 💧 [Water Monitoring System](https://github.com/mithrangowda07/WaterMon)
-`Raspberry Pi · Python · Django · Twilio · ThingSpeak` — *Dec 2024*
-
-> IoT system to optimize water usage and send instant alerts for abnormal consumption.
-- Real-time flow measurement using Raspberry Pi + sensors; SMS/email alerts via **Twilio**
-- Data logging and visualization on **ThingSpeak**; Django web interface for monitoring & reports
 
 ---
 
