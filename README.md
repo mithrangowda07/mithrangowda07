@@ -18,9 +18,9 @@
 
 ## 🙋‍♂️ About Me
 
-- 🎓 Pursuing **BE in Information Science & Engineering** at **R V College of Engineering**, Bengaluru (CGPA: **9.06**)
-- 💼 Ex **Software Development Intern** at **Schneider Electric** — built AI-powered anomaly detection for home automation systems
-- 🤖 Passionate about **AI/ML**, **Full Stack Development**, and **IoT**
+- 🎓 Pursuing **BE in Information Science & Engineering** at **R V College of Engineering**, Bengaluru (CGPA: **9.01**)
+- 💼 Ex **Software Development Intern** at **Schneider Electric** — Built AI-powered anomaly detection for home automation systems
+- 🤖 Passionate about **DSA**, **AI/ML**, **Full Stack Development**, and **IoT**
 - 🏆 National Hackathon Runner-up (×2) · Datathon Winner · VTU State Volleyball Champion
 - 🌱 Currently exploring **competitive programming** and **Full Stack Development**
 - 📍 Based in **Bengaluru, Karnataka**
