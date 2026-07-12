@@ -1,165 +1,300 @@
+<!-- Centered Hero Section -->
 <div align="center">
-
-# Hi there, I'm Mithra N Gowda 👋
-
-### Software Development Intern | ML Enthusiast | Full Stack Developer
-
-*Ex-Software Development Intern @ Schneider Electric · Building scalable, intelligent systems that solve real-world problems through data and innovation.*
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-0f0f23?style=for-the-badge&logo=vercel&logoColor=white)](https://mithrangowda.vercel.app)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mithra-n-gowda-30b053294)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mithrangowda07)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/SilentNeedle/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mithrangowda01@gmail.com)
+  
+  # 💻 Mithra N Gowda
+  ### **Software Development Intern | Full Stack Developer | Competitive Programmer**
+  
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&center=true&vCenter=true&width=450&lines=Software+Development+Intern;Full+Stack+Developer;Competitive+Programmer;IoT+%26+ML+Enthusiast)](https://git.io/typing-svg)
+  
+  *Information Science student at R V College of Engineering (RVCE) passionate about building scalable full-stack applications, analyzing event logs, and solving algorithmic problems.*
+  
+  📦 [Portfolio Website](https://mithrangowda.vercel.app) • 💻 [GitHub Profile](https://github.com/mithrangowda07) • 👥 [LinkedIn Profile](https://www.linkedin.com/in/mithra-n-gowda-30b053294) • 🏆 [LeetCode](https://leetcode.com/u/SilentNeedle/)
+  
+  ---
+  
+  <!-- Social Badges -->
+  [![Portfolio](https://img.shields.io/badge/Portfolio-mithrangowda.vercel.app-2563EB?style=for-the-badge&logo=vercel&logoColor=white)](https://mithrangowda.vercel.app)
+  [![GitHub](https://img.shields.io/badge/GitHub-mithrangowda07-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mithrangowda07)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Mithra%20N%20Gowda-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mithra-n-gowda-30b053294)
+  [![LeetCode](https://img.shields.io/badge/LeetCode-SilentNeedle-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/SilentNeedle/)
+  [![Email](https://img.shields.io/badge/Email-mithrangowda01%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mithrangowda01@gmail.com)
+  [![Resume](https://img.shields.io/badge/Resume-Download%20PDF-00A4EF?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white)](public/Resume.pdf)
+  [![Instagram](https://img.shields.io/badge/Instagram-mithrangowda__01-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/mithrangowda_01?igsh=N3d6OTZvcXI2Z2Jp)
 
 </div>
 
 ---
 
-## 🙋‍♂️ About Me
+## 🎓 Education
 
-- 🎓 Pursuing **BE in Information Science & Engineering** at **R V College of Engineering**, Bengaluru (CGPA: **9.01**)
-- 💼 Ex **Software Development Intern** at **Schneider Electric** — Built AI-powered anomaly detection for home automation systems
-- 🤖 Passionate about **DSA**, **AI/ML**, **Full Stack Development**, and **IoT**
-- 🏆 National Hackathon Runner-up (×2) · Datathon Winner · VTU State Volleyball Champion
-- 🌱 Currently exploring **competitive programming** and **Full Stack Development**
-- 📍 Based in **Bengaluru, Karnataka**
+```
+ R V College of Engineering (BE in Information Science & Engineering)  [2023 - Present]
+  │  Location: Bengaluru, Karnataka
+  │  Academic Index: CGPA 9.06 / 10.00
+  └── Focus: Data Structures, Algorithms, Systems Architecture, and Web Development.
+
+ Sri Sathya Sai Loka Seva PU College (PUC - PCMB)                        [2021 - 2023]
+  │  Location: Alike, Dakshina Kannada, Karnataka
+  └── Academic Index: 97.66%
+
+ Sri Sathya Sai Vidya Kendra High School (10th Standard)                 [2017 - 2021]
+     Location: Chokkady Sullia, Dakshina Kannada, Karnataka
+     Academic Index: 96.4%
+```
+
+---
+
+## 📖 About Me
+
+I am an **Information Science and Engineering undergraduate** at **R V College of Engineering (RVCE)**, Bengaluru. I specialize in backend architectures, cloud databases, and machine learning systems. My research and industry experience focus on bridging software engineering practices with data-driven optimization, such as real-time anomaly detection pipelines and full-stack counseling platforms.
+
+* **Academic Background:** Information Science undergraduate with a cumulative CGPA of **9.06/10.00**.
+* **Professional Experience:** Software Development Intern at **Schneider Electric**, designing AI-driven event-sourcing and home automation error classification systems under senior architectural guidance.
+* **Interests & Passion:** Competitive programming, systems design, IoT automation, and web security protocols.
 
 ---
 
 ## 🛠️ Tech Stack
 
-### Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![HTML/CSS](https://img.shields.io/badge/HTML%2FCSS-E34F26?style=flat-square&logo=html5&logoColor=white)
-![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=flat-square&logo=mathworks&logoColor=white)
+### 💻 Languages
+* **Primary:** 
+  ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white) 
+  ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white) 
+  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) 
+  ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) 
+  ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) 
+  ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) 
+  ![MATLAB](https://img.shields.io/badge/MATLAB-ED7B0D?style=flat-square&logo=mathworks&logoColor=white)
 
-### Frameworks & Libraries
-![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+### 🚀 Frontend & Client Frameworks
+* **Technologies:** 
+  ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) 
+  ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white) 
+  ![Vite](https://img.shields.io/badge/Vite-64947E?style=flat-square&logo=vite&logoColor=FFD62E) 
+  ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwindcss&logoColor=white) 
+  ![Leaflet](https://img.shields.io/badge/Leaflet-19992D?style=flat-square&logo=leaflet&logoColor=white)
+  `Recharts` • `Swiper` • `Framer Motion` • `Axios`
 
-### Tools & Technologies
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
-![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-A22846?style=flat-square&logo=raspberrypi&logoColor=white)
-![ThingSpeak](https://img.shields.io/badge/ThingSpeak-0099FF?style=flat-square&logo=mathworks&logoColor=white)
+### ⚙️ Backend, APIs & Real-time Communication
+* **Technologies:** 
+  ![Django REST](https://img.shields.io/badge/Django_REST-092E20?style=flat-square&logo=django&logoColor=white) 
+  ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) 
+  ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white) 
+  ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) 
+  ![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white) 
+  ![Socket.IO](https://img.shields.io/badge/Socket.IO-010101?style=flat-square&logo=socketdotio&logoColor=white)
+  `Twilio API` • `Nodemailer` • `OSRM API` • `Open-Meteo API` • `NASA POWER API`
+
+### 🗄️ Databases & Storage
+* **Technologies:** 
+  ![MySQL](https://img.shields.io/badge/MySQL-00758F?style=flat-square&logo=mysql&logoColor=white) 
+  ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) 
+  ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=flat-square&logo=sqlite&logoColor=white) 
+  ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white) 
+  ![MinIO](https://img.shields.io/badge/MinIO-C72C48?style=flat-square&logo=minio&logoColor=white)
+
+### ☁️ DevOps, Deployment & Infrastructure
+* **Technologies:** 
+  ![AWS EC2](https://img.shields.io/badge/Amazon_EC2-FF9900?style=flat-square&logo=amazonec2&logoColor=white) 
+  ![AWS S3](https://img.shields.io/badge/Amazon_S3-569A31?style=flat-square&logo=amazons3&logoColor=white) 
+  ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white) 
+  ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+
+### 🛠️ Hardware, IoT & Embedded Systems
+* **Technologies:** 
+  ![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-C51A4A?style=flat-square&logo=raspberrypi&logoColor=white) 
+  ![ThingSpeak](https://img.shields.io/badge/ThingSpeak-008000?style=flat-square&logo=smarthome&logoColor=white) 
+  `MQTT Protocol` • `Water Flow Sensors`
+
+---
+
+## 📂 Featured Projects
+
+### 🎓 **KCET EduGuide - Personalized Rank-to-College Advisor**
+*Counselling choice platform used by 70+ students to optimize college selection.*
+* **Problem Solved:** Simplifies and automates the chaotic KCET (Karnataka Common Entrance Test) choice-entry counseling procedure by recommending real-time optimal branches and colleges based on rank, location preferences, and historical cutoff trends.
+* **Key Features:**
+  - Personalized college branch recommendation algorithm matching reservation categories.
+  - Interactive choice-list builder using drag-and-drop reordering, bulk actions, and PDF export.
+  - Interactive cutoff visualization trends using Recharts.
+  - Peer-to-peer student mentor matching with Jitsi Meet video integration and administrative webinars.
+  - OCR-based student identification cards upload and admin verification workflow.
+* **Tech Stack:** React, TypeScript, Node.js, Express.js, MongoDB Atlas, Tailwind CSS, Recharts, Amazon EC2, Amazon S3, Vercel.
+* **Links:** [🔗 GitHub Repository](https://github.com/mithrangowda07/frontend-kcet) | [🌐 Live Demo](https://kcet-eduguide.vercel.app/)
+* **Status:** Fully Released (April 2026)
+
+---
+
+### 💳 **Topic-Based Micro-Subscription Learning Platform**
+*A modern, micro-payment education platform enabling topic-level subscriptions.*
+* **Problem Solved:** Replaces expensive, rigid whole-course subscriptions with a flexible, granular pay-per-topic wallet model, lowering educational access costs.
+* **Key Features:**
+  - Topic-level content gates unlocking specific text resources, coding problems, and discussion portals.
+  - Wallet-based checkout platform backed by atomic transaction logic.
+  - Real-time discussion rooms powered by WebSockets.
+  - Student practice contribution gates featuring peer reviews and wallet rewards.
+  - Detailed administrator console tracking system-wide transaction ledgers and content performance.
+* **Tech Stack:** React, TypeScript, Django REST Framework, MySQL, MinIO Object Storage, WebSockets, Zustand.
+* **Links:** [🔗 GitHub Repository](https://github.com/mithrangowda07/Topic-Based-Micro-Subscription-Learning-Platform)
+* **Status:** Production Build (March 2026)
+
+---
+
+### ⚡ **Adaptive Secure Communication System (PAACS)**
+*Performance-aware real-time secure messaging system.*
+* **Problem Solved:** Dynamically balances speed and security requirements of data transfer by adjusting cryptographic encryption ciphers on-the-fly based on real-time network latency, jitter, and transfer rates.
+* **Tech Stack:** Node.js, Express.js, Socket.IO, SQLite, React, Vite, Tailwind CSS, Recharts, Axios.
+* **Links:** [🔗 GitHub Repository](https://github.com/mithrangowda07/Adaptive-Secure-and-Speed-Communication)
+* **Status:** Released (June 2026)
+
+---
+
+### 🚨 **Integrated Emergency Response and Green Corridor Management System (IDP)**
+*Smart dispatch system overriding city traffic infrastructure.*
+* **Problem Solved:** Minimizes emergency response times of fire, police, and ambulance dispatch units by overriding traffic light loops when vehicles are detected en route.
+* **Tech Stack:** React, Node.js, Express.js, Socket.IO, MySQL, MinIO, Leaflet Maps, OSRM API, Overpass API.
+* **Links:** [🔗 GitHub Repository](https://github.com/mithrangowda07/IDP)
+* **Status:** Released (May 2026)
+
+---
+
+### 🌡️ **Wafer Defect Detection System**
+*Industrial machine-learning computer vision quality assurance pipeline.*
+* **Problem Solved:** Automates detection of microscopic defects in semiconductor wafers, replacing manual quality control inspection, boosting assembly accuracy and safety.
+* **Tech Stack:** Python, MobileNetV2, Grad-CAM, Streamlit, AWS IoT Core, AWS SNS, MariaDB, MQTT.
+* **Links:** [🔗 GitHub Repository](https://github.com/mithrangowda07/Wafer_Defect_Detection)
+* **Status:** Released (November 2024)
+
+---
+
+### 🌊 **Water Monitoring System**
+*IoT-driven consumption tracker and utility management suite.*
+* **Problem Solved:** Detects plumbing leaks, keeps log details of daily water consumption, and alerts administrators regarding excess household/commercial water waste.
+* **Tech Stack:** Raspberry Pi, Python, Django, SQLite, Twilio API, ThingSpeak, Smtplib.
+* **Links:** [🔗 GitHub Repository](https://github.com/mithrangowda07/WaterMon)
+* **Status:** Released (December 2024)
+
+---
+
+### 🔮 **ML Powered Flood Prediction System**
+*AI-driven weather forecast and disaster alerting system.*
+* **Problem Solved:** Predicts regional floods 3 days in advance, allowing local disaster teams to take preemptive actions and limit infrastructure damage.
+* **Tech Stack:** FastAPI, React, XGBoost, LSTM Neural Networks, SHAP, Open-Meteo API, NASA POWER API.
+* **Links:** [🔗 GitHub Repository](https://github.com/Dhruthi-D/Flood_prediction)
+* **Status:** Released (February 2026)
+
+---
+
+### 💼 **Portfolio Website**
+*Neo-retro themed personal desktop showcase.*
+* **Problem Solved:** Acts as a central, interactive resume displaying skills, projects, and certifications using an elegant, classic OS visual language.
+* **Links:** [🔗 GitHub Repository](https://github.com/mithrangowda07/portfolio) | [🌐 Live Demo](https://mithrangowda.vercel.app)
+* **Status:** Released (August 2025)
 
 ---
 
 ## 💼 Experience
 
-### 🏢 Schneider Electric — Software Development Intern
-`July 2025 – September 2025 · Bengaluru, Karnataka`
-
-- Collaborated in a team of 4 under a Senior Architect to build a prototype for home automation error detection
-- Collected large-scale sensor and event data (including deliberate faults) to train ML models for anomaly detection
-- Implemented **Random Forest** algorithm for failure detection and corrective action recommendations
-- Integrated AI for autonomous optimization and real-time decision-making
-
----
-
-## 🚀 Projects
-
-### 📚 [Topic-Based Micro-Subscription Learning Platform](https://github.com/mithrangowda07)
-`Django · React · TypeScript · MySQL · MinIO · WebSockets` — *March 2026*
-
-> A flexible e-learning platform enabling users to purchase individual topics instead of full courses.
-- Built full-stack app with **Django REST Framework** + **React/TypeScript**, JWT auth, wallet payments & atomic transactions
-- **MinIO-based** storage for markdown content and videos; real-time discussion via **WebSockets**
-- Role-based access control, problem contribution system with reward mechanism, and progress tracking dashboard
+### **Schneider Electric** | BGRT Bengaluru, Karnataka
+*💻 Software Development Intern (July 2025 — September 2025)*
+* **Role Focus:** Developing AI-powered home automation prototypes with built-in error identification and corrective recommendation engines.
+* **Key Responsibilities:**
+  - Collaborated in a team of 4 members under the guidance of a Senior Architect.
+  - Structured event-sourcing log pipelines to track system-wide anomalies.
+  - Collected large-scale sensor and system event data, including deliberately introduced faults, to train AI models for anomaly detection and corrective action recommendations.
+  - Integrated AI with system code access to enable autonomous optimization, real-time decision-making, and providing suggestions for detected errors.
+* **Technologies Used:** Python, Event Sourcing, AI/ML classification models, Home Automation Systems, Logs Processing.
 
 ---
 
-### 🎓 [EduMate — KCET Rank-to-College Advisor](https://github.com/mithrangowda07/kcet-helper)
-`Django · React · TypeScript · MySQL · ML · OCR · JWT` — *Jan 2026*
+## 🏆 Achievements & Certifications
 
-> Saves 10+ hours of research with personalized college-branch suggestions for KCET students.
-- AI-based review validation using **TF-IDF + Logistic Regression**; **OCR**-based student ID verification
-- Integrated **Jitsi Meet** for peer-to-peer counseling; interactive cutoff trend visualizations
-- Drag-and-drop choice management with real-time persistence; role-based registration workflows
+### **Competitions & Hackathons**
+* **Winners** — *Datathon 2025* (Dayananda Sagar Academy of Technology and Management, Bengaluru | November 2025)
+* **Runner Up** — *Hackwise 2025 National Level Hackathon* (KVGCE College of Engineering, Mangalore | April 2025)
+* **Runner Up** — *Avinya 2025 National Level Hackathon* (MVGCE College of Engineering, Bengaluru | March 2025)
+* **Winners** — *VTU State Level Volleyball Competition* (Led the college team to victory | February 2024)
 
----
+### **Leadership & Volunteering**
+* **Volunteer** — *National Service Scheme (NSS), RVCE Chapter* (Jan 2024 — Present)
+  - Organized blood donation camps, cleanliness drives, and social awareness programs, fostering civic responsibility.
 
-### 🌊 [ML Powered Flood Prediction System](https://github.com/Dhruthi-D/Flood_prediction)
-`FastAPI · React · XGBoost · LSTM · NASA POWER API · Open-Meteo API` — *Feb 2026*
-
-> AI-driven flood early warning system with real-time risk alerts and 3-day forecasts.
-- Hybrid **XGBoost + LSTM** model; integrated **NASA POWER** climate data and **EM-DAT** disaster records
-- **SHAP-based** model explainability; interactive dashboard with maps, heatmaps & multi-city monitoring
-
----
-
-### 🌐 [Portfolio Website](https://mithrangowda.vercel.app)
-`Next.js · TypeScript · React · Tailwind CSS` — *Aug 2025*
-
-> Modern, responsive portfolio with dark theme, smooth animations, and project showcase.
+### **Professional Certifications**
+* **Introduction to Graph Algorithms** — *IISc Bangalore* (NPTEL Online Verification | July-Sep 2025)
+  - [📄 View Certificate Copy](public/certificates/Introduction_to_graph_algorithm.png)
+* **Data Science for Engineers** — *IIT Madras* (NPTEL Online Verification | Jan-Mar 2025)
+  - [📄 View Certificate Copy](public/certificates/Data_Science.png)
 
 ---
 
-## 🏆 Achievements
+## 🛡️ Coding Profiles
 
-| 🏅 Achievement | 📅 Date |
-|---|---|
-| 🥇 Winners — Datathon @ Dayananda Sagar Academy of Technology and Management | Nov 2025 |
-| 🥈 Runner-up — Hackwise 2025 National Level Hackathon @ KVGCE, Mangalore | Apr 2025 |
-| 🥈 Runner-up — Avinya 2025 National Level Hackathon @ MVGCE, Bengaluru | Mar 2025 |
-| 🏐 VTU State Level Volleyball Competition — Winners | Feb 2024 |
+* **LeetCode Profile:** [@SilentNeedle](https://leetcode.com/u/SilentNeedle/)
+* **GitHub Profile:** [@mithrangowda07](https://github.com/mithrangowda07)
 
 ---
 
-## 📜 Certifications
+## 📊 GitHub + LeetCode Stats
 
-- 📘 **Introduction to Graph Algorithms** — IISc Bengaluru (NPTEL) · July–Sep 2025
-- 📗 **Data Science for Engineers** — IIT Madras (NPTEL) · Jan–Mar 2025
+The stats widgets below reflect live activity pipelines and solved history directly imported from GitHub and LeetCode.
 
+<table border="0" width="100%">
+  <tr>
+    <td width="50%" align="center" valign="top">
+      <h4>💻 GitHub Activity & Streak</h4>
+      <a href="https://github.com/mithrangowda07">
+        <img src="https://streak-stats.demolab.com?user=mithrangowda07&theme=github-light&hide_border=true" width="100%" alt="GitHub Commits Streak Stats" />
+      </a>
+      <br/><br/>
+      <a href="https://github.com/mithrangowda07">
+        <img src="https://github-readme-activity-graph.vercel.app/graph?username=mithrangowda07&theme=github-light&hide_border=true&area=true" width="100%" alt="GitHub Contributions Heatmap" />
+      </a>
+    </td>
+    <td width="50%" align="center" valign="top">
+      <h4>🏆 LeetCode Competitive Report</h4>
+      <div align="left" style="margin-bottom: 10px;">
+        <ul>
+          <li><strong>Contest Rating:</strong> <code>1600+</code></li>
+          <li><strong>Global Ranking:</strong> <code>Top 9%</code> (8.6%)</li>
+          <li><strong>Contests Attended:</strong> <code>10+</code></li>
+        </ul>
+      </div>
+      <a href="https://leetcode.com/u/SilentNeedle/">
+        <img src="https://leetcard.jacoblin.cool/SilentNeedle?ext=heatmap" width="100%" alt="LeetCode Solved Heatmap" />
+      </a>
+    </td>
+  </tr>
+</table>
 
 ---
 
-## 🔥 GitHub Contribution Heatmap
+## 🎯 Current Focus
 
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=mithrangowda07&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
-
-</div>
-
-<div align="center">
-
-[![Mithra's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=mithrangowda07&theme=tokyo-night&hide_border=true&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-</div>
+* ⚙️ **Advanced Algorithms:** Strengthening graph partitioning and optimization techniques.
+* 🛡️ **Network Security:** Refining PAACS to include adaptive rate-limiting during cryptographic transitions.
+* 🌐 **Scalable Systems:** Integrating Next.js applications with Server-Sent Events (SSE) and persistent Redis caching.
+* 💼 **Career Goals:** Seeking graduate full-time opportunities and internships in Software Engineering and Systems Design starting 2026/2027.
 
 ---
 
-## 🎯 Currently Learning
+## ✉️ Contact
 
-- 🧠 Advanced ML architectures (Transformers, GANs)
-- ⚡ Competitive Programming (Data Structures & Algorithms)
-- 🔗 System Design & Distributed Systems
+Feel free to reach out for collaborations, project inquiries, or opportunities!
 
----
-
-## 🌟 Extracurricular
-
-- 🤝 **NSS Volunteer** @ RVCE — Blood donation camps, cleanliness drives, awareness programs (Jan 2024 – Present)
-- 🏐 **VTU State Volleyball Champion** — Represented RVCE at state level
-- 📖 Hobbies: Competitive Programming · Trekking · Reading Books · Community Service
+* **Email:** [mithrangowda01@gmail.com](mailto:mithrangowda01@gmail.com)
+* **Phone:** +91 97405 69178
+* **LinkedIn:** [/in/mithra-n-gowda](https://www.linkedin.com/in/mithra-n-gowda-30b053294)
+* **GitHub:** [github.com/mithrangowda07](https://github.com/mithrangowda07)
+* **LeetCode:** [leetcode.com/u/SilentNeedle/](https://leetcode.com/u/SilentNeedle/)
+* **Instagram:** [@mithrangowda_01](https://www.instagram.com/mithrangowda_01?igsh=N3d6OTZvcXI2Z2Jp)
+* **Address:** Bengaluru, Karnataka 560060, India
 
 ---
 
 <div align="center">
-
-
-⭐ **If you find my work useful, consider giving a star to my repos!** ⭐
+  
+  *Thanks for visiting! Let's build something amazing together.*
+  
+  ⚙️ **Mithra N Gowda** | BE Information Science & Engineering (RVCE)
 
 </div>
