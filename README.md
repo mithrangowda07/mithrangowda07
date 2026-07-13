@@ -254,10 +254,10 @@ The stats widgets below reflect live activity pipelines and solved history direc
       <h4>🏆 LeetCode Competitive Report</h4>
       <div align="left" style="margin-bottom: 10px;">
         <ul>
-          <li><strong>Contest Rating:</strong> <code><!--RATING-->1600+<!--/RATING--></code></li>
-          <li><strong>Global Ranking:</strong> <code><!--RANK-->Top 9%<!--/RANK--></code></li>
-          <li><strong>Top Percentage:</strong> <code><!--TOP-->8.6%<!--/TOP--></code></li>
-          <li><strong>Contests Attended:</strong> <code><!--ATTEND-->10+<!--/ATTEND--></code></li>
+          <li><strong>Contest Rating:</strong> <code><!--RATING-->1830<!--/RATING--></code></li>
+          <li><strong>Global Ranking:</strong> <code><!--RANK-->59,446<!--/RANK--></code></li>
+          <li><strong>Top Percentage:</strong> <code><!--TOP-->6.96%<!--/TOP--></code></li>
+          <li><strong>Contests Attended:</strong> <code><!--ATTEND-->7<!--/ATTEND--></code></li>
         </ul>
       </div>
       <a href="https://leetcode.com/u/SilentNeedle/">
