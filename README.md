@@ -221,9 +221,9 @@ I am an **Information Science and Engineering undergraduate** at **R V College o
 
 ### **Professional Certifications**
 * **Introduction to Graph Algorithms** — *IISc Bangalore* (NPTEL Online Verification | July-Sep 2025)
-  - [📄 View Certificate Copy](public/certificates/Introduction_to_graph_algorithm.png)
+  - [📄 View Certificate Copy](Introduction_to_graph_algorithm.png)
 * **Data Science for Engineers** — *IIT Madras* (NPTEL Online Verification | Jan-Mar 2025)
-  - [📄 View Certificate Copy](public/certificates/Data_Science.png)
+  - [📄 View Certificate Copy](Data_Science.png)
 
 ---
 
@@ -254,9 +254,10 @@ The stats widgets below reflect live activity pipelines and solved history direc
       <h4>🏆 LeetCode Competitive Report</h4>
       <div align="left" style="margin-bottom: 10px;">
         <ul>
-          <li><strong>Contest Rating:</strong> <code>1600+</code></li>
-          <li><strong>Global Ranking:</strong> <code>Top 9%</code> (8.6%)</li>
-          <li><strong>Contests Attended:</strong> <code>10+</code></li>
+          <li><strong>Contest Rating:</strong> <code><!--RATING-->1600+<!--/RATING--></code></li>
+          <li><strong>Global Ranking:</strong> <code><!--RANK-->Top 9%<!--/RANK--></code></li>
+          <li><strong>Top Percentage:</strong> <code><!--TOP-->8.6%<!--/TOP--></code></li>
+          <li><strong>Contests Attended:</strong> <code><!--ATTEND-->10+<!--/ATTEND--></code></li>
         </ul>
       </div>
       <a href="https://leetcode.com/u/SilentNeedle/">
@@ -282,7 +283,6 @@ The stats widgets below reflect live activity pipelines and solved history direc
 Feel free to reach out for collaborations, project inquiries, or opportunities!
 
 * **Email:** [mithrangowda01@gmail.com](mailto:mithrangowda01@gmail.com)
-* **Phone:** +91 97405 69178
 * **LinkedIn:** [/in/mithra-n-gowda](https://www.linkedin.com/in/mithra-n-gowda-30b053294)
 * **GitHub:** [github.com/mithrangowda07](https://github.com/mithrangowda07)
 * **LeetCode:** [leetcode.com/u/SilentNeedle/](https://leetcode.com/u/SilentNeedle/)
