@@ -255,7 +255,7 @@ The stats widgets below reflect live activity pipelines and solved history direc
       <div align="left" style="margin-bottom: 10px;">
         <ul>
           <li><strong>Contest Rating:</strong> <code><!--RATING-->1799<!--/RATING--></code></li>
-          <li><strong>Global Ranking:</strong> <code><!--RANK-->71,673<!--/RANK--></code></li>
+          <li><strong>Global Ranking:</strong> <code><!--RANK-->71,674<!--/RANK--></code></li>
           <li><strong>Top Percentage:</strong> <code><!--TOP-->8.31%<!--/TOP--></code></li>
           <li><strong>Contests Attended:</strong> <code><!--ATTEND-->8<!--/ATTEND--></code></li>
         </ul>
